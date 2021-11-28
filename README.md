@@ -1,3 +1,2 @@
 - 👋 Hi, I’m: @ThijsieJWW
 - 👀 I’m interested in: programming
-- 📫 How to reach me: not yet
