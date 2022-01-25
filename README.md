@@ -1,2 +1,1 @@
-- 👋 Hi, I’m: @ThijsieJWW
-- 👀 I’m interested in: programming
+Thijs van Straaten, Frikandelbroodje :netherlands: :)
