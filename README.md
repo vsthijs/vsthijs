@@ -1,5 +1,6 @@
 # Thijs van Straaten
 15 y/o in the Netherlands.
+Programming on very old computers.
 
 ## programming languages
 programming languages and other skills
